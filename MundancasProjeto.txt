@@ -1,0 +1,5 @@
+Alterar no projeto
+
+Adicionar start e stop para o ROBO
+Adicionar Ventilador independentes
+Adicionar Dois Inicia Ciclo
